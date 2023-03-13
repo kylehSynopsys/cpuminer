@@ -1,0 +1,10 @@
+build_cmd: make
+build_dir: /opt/blackduckTestProjects/cpuminer
+skip_build: False
+verbose: True
+project_name: cpuminer_C++
+project_version: 1
+bd_url: https://us1a-imp-hub11.nprd.sig.synopsys.com
+api_token: NDZkZjg5ZGEtOWU5My00NDQ4LWExZDQtNDJjMTYzYWZlMjIzOjAwN2YxZjJhLTY1Y2UtNGRkNy05NmU1LWVhZWFjZjFiZGFiZg==
+insecure: True
+coverity_root: /opt/cov-bd-capture
