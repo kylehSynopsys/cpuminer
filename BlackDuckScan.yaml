@@ -1,5 +1,5 @@
 build_cmd: make
-build_dir: "/var/lib/jenkins/workspace/Steven's Pipe"
+build_dir: /var/lib/jenkins/workspace/Stevens-Pipe
 skip_build: False
 verbose: True
 project_name: CPU-Miner-C++
